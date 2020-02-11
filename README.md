@@ -1,2 +1,2 @@
-# AMLS_RSDK_Examples
+# AMLS R SDK Examples
 Examples for using the Azure Machine Learning Service R SDK
